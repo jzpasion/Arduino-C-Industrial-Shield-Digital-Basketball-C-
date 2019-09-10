@@ -1,0 +1,23 @@
+C:\Users\Jeremiah Zyrel\source\repos\DigitalBasketBall\DigitalBasketBall\bin\Debug\DigitalBasketBall.exe.config
+C:\Users\Jeremiah Zyrel\source\repos\DigitalBasketBall\DigitalBasketBall\bin\Debug\DigitalBasketBall.exe
+C:\Users\Jeremiah Zyrel\source\repos\DigitalBasketBall\DigitalBasketBall\bin\Debug\DigitalBasketBall.pdb
+C:\Users\Jeremiah Zyrel\source\repos\DigitalBasketBall\DigitalBasketBall\bin\Debug\ArtNet.dll
+C:\Users\Jeremiah Zyrel\source\repos\DigitalBasketBall\DigitalBasketBall\bin\Debug\ArtNet.pdb
+C:\Users\Jeremiah Zyrel\source\repos\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.Form1.resources
+C:\Users\Jeremiah Zyrel\source\repos\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.Properties.Resources.resources
+C:\Users\Jeremiah Zyrel\source\repos\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.csproj.GenerateResource.cache
+C:\Users\Jeremiah Zyrel\source\repos\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah Zyrel\source\repos\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.csproj.CopyComplete
+C:\Users\Jeremiah Zyrel\source\repos\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.exe
+C:\Users\Jeremiah Zyrel\source\repos\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.pdb
+C:\Users\Jeremiah Zyrel\source\repos\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.csprojAssemblyReference.cache
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\IndustrialShield\DigitalBasketBall\DigitalBasketBall\bin\Debug\DigitalBasketBall.exe.config
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\IndustrialShield\DigitalBasketBall\DigitalBasketBall\bin\Debug\DigitalBasketBall.exe
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\IndustrialShield\DigitalBasketBall\DigitalBasketBall\bin\Debug\DigitalBasketBall.pdb
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\IndustrialShield\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.Form1.resources
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\IndustrialShield\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.Properties.Resources.resources
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\IndustrialShield\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.csproj.GenerateResource.cache
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\IndustrialShield\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.csproj.CoreCompileInputs.cache
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\IndustrialShield\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.csproj.CopyComplete
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\IndustrialShield\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.exe
+C:\Users\Jeremiah Zyrel\Desktop\Works-2019\Arduino - c#\IndustrialShield\DigitalBasketBall\DigitalBasketBall\obj\Debug\DigitalBasketBall.pdb
